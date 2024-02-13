@@ -14,6 +14,22 @@
 		F108B6252B1DC39C00B4FCBA /* ChemoManualTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B6242B1DC39C00B4FCBA /* ChemoManualTests.swift */; };
 		F108B62F2B1DC39C00B4FCBA /* ChemoManualUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B62E2B1DC39C00B4FCBA /* ChemoManualUITests.swift */; };
 		F108B6312B1DC39C00B4FCBA /* ChemoManualUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B6302B1DC39C00B4FCBA /* ChemoManualUITestsLaunchTests.swift */; };
+		F108B63F2B1DC56E00B4FCBA /* FMDB in Frameworks */ = {isa = PBXBuildFile; productRef = F108B63E2B1DC56E00B4FCBA /* FMDB */; };
+		F108B6432B1DC5B800B4FCBA /* Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B6422B1DC5B800B4FCBA /* Type.swift */; };
+		F108B6452B1DC62600B4FCBA /* DataReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B6442B1DC62600B4FCBA /* DataReader.swift */; };
+		F108B6472B1DC64B00B4FCBA /* TextReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B6462B1DC64B00B4FCBA /* TextReader.swift */; };
+		F108B6492B1DC66300B4FCBA /* Responder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B6482B1DC66300B4FCBA /* Responder.swift */; };
+		F108B64B2B1DC68D00B4FCBA /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B64A2B1DC68D00B4FCBA /* Main.swift */; };
+		F108B64D2B1DC6BB00B4FCBA /* MainScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B64C2B1DC6BB00B4FCBA /* MainScreen.swift */; };
+		F108B64F2B1DC70300B4FCBA /* TypePickerRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B64E2B1DC70300B4FCBA /* TypePickerRow.swift */; };
+		F108B6512B1DC72000B4FCBA /* TypePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B6502B1DC72000B4FCBA /* TypePicker.swift */; };
+		F108B6542B1DC74900B4FCBA /* FilteredCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B6532B1DC74900B4FCBA /* FilteredCards.swift */; };
+		F108B6562B1DC78F00B4FCBA /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B6552B1DC78F00B4FCBA /* CardView.swift */; };
+		F108B6582B1DC7F900B4FCBA /* ChatMessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B6572B1DC7F900B4FCBA /* ChatMessageView.swift */; };
+		F108B65A2B1DC83300B4FCBA /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B6592B1DC83300B4FCBA /* Message.swift */; };
+		F108B65C2B1DCB0300B4FCBA /* TextSenderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B65B2B1DCB0300B4FCBA /* TextSenderView.swift */; };
+		F108B65E2B1DCB2900B4FCBA /* ChatWindowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B65D2B1DCB2900B4FCBA /* ChatWindowView.swift */; };
+		F108B6602B1DCBA700B4FCBA /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F108B65F2B1DCBA700B4FCBA /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +60,22 @@
 		F108B62A2B1DC39C00B4FCBA /* ChemoManualUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChemoManualUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F108B62E2B1DC39C00B4FCBA /* ChemoManualUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChemoManualUITests.swift; sourceTree = "<group>"; };
 		F108B6302B1DC39C00B4FCBA /* ChemoManualUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChemoManualUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F108B6422B1DC5B800B4FCBA /* Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Type.swift; sourceTree = "<group>"; };
+		F108B6442B1DC62600B4FCBA /* DataReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataReader.swift; sourceTree = "<group>"; };
+		F108B6462B1DC64B00B4FCBA /* TextReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextReader.swift; sourceTree = "<group>"; };
+		F108B6482B1DC66300B4FCBA /* Responder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Responder.swift; sourceTree = "<group>"; };
+		F108B64A2B1DC68D00B4FCBA /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
+		F108B64C2B1DC6BB00B4FCBA /* MainScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreen.swift; sourceTree = "<group>"; };
+		F108B64E2B1DC70300B4FCBA /* TypePickerRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypePickerRow.swift; sourceTree = "<group>"; };
+		F108B6502B1DC72000B4FCBA /* TypePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypePicker.swift; sourceTree = "<group>"; };
+		F108B6532B1DC74900B4FCBA /* FilteredCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteredCards.swift; sourceTree = "<group>"; };
+		F108B6552B1DC78F00B4FCBA /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		F108B6572B1DC7F900B4FCBA /* ChatMessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatMessageView.swift; sourceTree = "<group>"; };
+		F108B6592B1DC83300B4FCBA /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		F108B65B2B1DCB0300B4FCBA /* TextSenderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSenderView.swift; sourceTree = "<group>"; };
+		F108B65D2B1DCB2900B4FCBA /* ChatWindowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatWindowView.swift; sourceTree = "<group>"; };
+		F108B65F2B1DCBA700B4FCBA /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		F108B6622B1DCCC400B4FCBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +83,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F108B63F2B1DC56E00B4FCBA /* FMDB in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,10 +127,11 @@
 		F108B6122B1DC39B00B4FCBA /* ChemoManual */ = {
 			isa = PBXGroup;
 			children = (
+				F108B6622B1DCCC400B4FCBA /* Info.plist */,
+				F108B6612B1DCBAF00B4FCBA /* Resources */,
+				F108B6412B1DC5A100B4FCBA /* Models */,
+				F108B6402B1DC58600B4FCBA /* Views */,
 				F108B6132B1DC39B00B4FCBA /* ChemoManualApp.swift */,
-				F108B6152B1DC39B00B4FCBA /* ContentView.swift */,
-				F108B6172B1DC39C00B4FCBA /* Assets.xcassets */,
-				F108B6192B1DC39C00B4FCBA /* Preview Content */,
 			);
 			path = ChemoManual;
 			sourceTree = "<group>";
@@ -127,6 +161,45 @@
 			path = ChemoManualUITests;
 			sourceTree = "<group>";
 		};
+		F108B6402B1DC58600B4FCBA /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F108B6152B1DC39B00B4FCBA /* ContentView.swift */,
+				F108B64A2B1DC68D00B4FCBA /* Main.swift */,
+				F108B64C2B1DC6BB00B4FCBA /* MainScreen.swift */,
+				F108B64E2B1DC70300B4FCBA /* TypePickerRow.swift */,
+				F108B6502B1DC72000B4FCBA /* TypePicker.swift */,
+				F108B6532B1DC74900B4FCBA /* FilteredCards.swift */,
+				F108B6552B1DC78F00B4FCBA /* CardView.swift */,
+				F108B6572B1DC7F900B4FCBA /* ChatMessageView.swift */,
+				F108B6592B1DC83300B4FCBA /* Message.swift */,
+				F108B65B2B1DCB0300B4FCBA /* TextSenderView.swift */,
+				F108B65D2B1DCB2900B4FCBA /* ChatWindowView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F108B6412B1DC5A100B4FCBA /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				F108B6422B1DC5B800B4FCBA /* Type.swift */,
+				F108B6442B1DC62600B4FCBA /* DataReader.swift */,
+				F108B6462B1DC64B00B4FCBA /* TextReader.swift */,
+				F108B6482B1DC66300B4FCBA /* Responder.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F108B6612B1DCBAF00B4FCBA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F108B6172B1DC39C00B4FCBA /* Assets.xcassets */,
+				F108B6192B1DC39C00B4FCBA /* Preview Content */,
+				F108B65F2B1DCBA700B4FCBA /* Constants.swift */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +216,9 @@
 			dependencies = (
 			);
 			name = ChemoManual;
+			packageProductDependencies = (
+				F108B63E2B1DC56E00B4FCBA /* FMDB */,
+			);
 			productName = ChemoManual;
 			productReference = F108B6102B1DC39B00B4FCBA /* ChemoManual.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +291,9 @@
 				Base,
 			);
 			mainGroup = F108B6072B1DC39B00B4FCBA;
+			packageReferences = (
+				F108B63D2B1DC56E00B4FCBA /* XCRemoteSwiftPackageReference "fmdb" */,
+			);
 			productRefGroup = F108B6112B1DC39B00B4FCBA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -257,8 +336,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F108B64D2B1DC6BB00B4FCBA /* MainScreen.swift in Sources */,
+				F108B6602B1DCBA700B4FCBA /* Constants.swift in Sources */,
+				F108B6472B1DC64B00B4FCBA /* TextReader.swift in Sources */,
+				F108B65E2B1DCB2900B4FCBA /* ChatWindowView.swift in Sources */,
+				F108B6452B1DC62600B4FCBA /* DataReader.swift in Sources */,
+				F108B6492B1DC66300B4FCBA /* Responder.swift in Sources */,
+				F108B6582B1DC7F900B4FCBA /* ChatMessageView.swift in Sources */,
 				F108B6162B1DC39B00B4FCBA /* ContentView.swift in Sources */,
+				F108B6432B1DC5B800B4FCBA /* Type.swift in Sources */,
+				F108B65C2B1DCB0300B4FCBA /* TextSenderView.swift in Sources */,
+				F108B64B2B1DC68D00B4FCBA /* Main.swift in Sources */,
+				F108B6512B1DC72000B4FCBA /* TypePicker.swift in Sources */,
 				F108B6142B1DC39B00B4FCBA /* ChemoManualApp.swift in Sources */,
+				F108B6542B1DC74900B4FCBA /* FilteredCards.swift in Sources */,
+				F108B6562B1DC78F00B4FCBA /* CardView.swift in Sources */,
+				F108B64F2B1DC70300B4FCBA /* TypePickerRow.swift in Sources */,
+				F108B65A2B1DC83300B4FCBA /* Message.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,10 +510,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ChemoManual/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ChemoManual/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = V7XD2LAA48;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ChemoManual/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -445,10 +540,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ChemoManual/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ChemoManual/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = V7XD2LAA48;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ChemoManual/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -583,6 +679,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F108B63D2B1DC56E00B4FCBA /* XCRemoteSwiftPackageReference "fmdb" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/ccgus/fmdb";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F108B63E2B1DC56E00B4FCBA /* FMDB */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F108B63D2B1DC56E00B4FCBA /* XCRemoteSwiftPackageReference "fmdb" */;
+			productName = FMDB;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = F108B6082B1DC39B00B4FCBA /* Project object */;
 }
