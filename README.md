@@ -4,7 +4,7 @@ Welcome to the Chemotherapy Manual App! This application is designed to provide 
 
 ## Features
 
-### 📱 Main Page & AI Chat Assistance Page
+### 📱 Main Page & Post Page
 The main page serves as a hub for accessing articles containing chemotherapy-related health advice and information. Users can browse through a variety of topics, ranging from treatment options to managing side effects. The posts are displayed with proper lining and fonts for best user experience.
 
 ### 💬 AI Chat Assistance Page
