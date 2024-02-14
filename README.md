@@ -1,6 +1,6 @@
 # Chemotherapy Manual App
 
-Welcome to the Chemotherapy Manual App! This application is designed to provide comprehensive information and assistance related to chemotherapy, aimed at both patients and healthcare professionals.
+Welcome to the Chemotherapy Manual App! This application is designed to provide comprehensive information and assistance related to daily life during chemotherapy, aimed at providing advice for both patients and their families.
 
 ## Features
 
