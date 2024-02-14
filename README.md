@@ -30,7 +30,7 @@ The backend management system provides administrators (post authors) with the ab
 
 ## A Short Video Demo
 <video width="560" height="315" controls>
-    <source src="Images/CM demo.mp4" type="video/mp4">
+    <source src="Images/CMDemo.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
