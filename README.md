@@ -13,10 +13,10 @@ The AI-powered chatbot provides personalized assistance and immediate responses 
 ### 📚 Category Page
 The category page allows users to explore articles grouped by specific categories, making it easier to find information relevant to their needs. Categories may include topics such as chemotherapy drugs, treatment procedures, and lifestyle recommendations during treatment.
 <div align="left">
-  <img src="Images/mainPage.png" width="240" height="520" alt="Main Page">
-  <img src="Images/post.png" width="240" height="520" alt="AI Chat Assistance Page">
-  <img src="Images/aiChat.png" width="240" height="520" alt="AI Chat Assistance Page">
-  <img src="Images/Categories.png" width="240" height="520" alt="Category Page">
+  <img src="Images/mainPage.png" width="200" height="450" alt="Main Page">
+  <img src="Images/post.png" width="200" height="450" alt="AI Chat Assistance Page">
+  <img src="Images/aiChat.png" width="200" height="450" alt="AI Chat Assistance Page">
+  <img src="Images/Categories.png" width="200" height="450" alt="Category Page">
 </div>
 
 ## Backend Management System
@@ -27,6 +27,12 @@ The category page allows users to explore articles grouped by specific categorie
   <img src="Images/edit.png" width="400" height="300" alt="Sample Post">
 </div>
 The backend management system provides administrators (post authors) with the ability to delete, add, and edit posts. This ensures the content remains up-to-date and relevant for users. Sample posts featured in the app are sourced from [BC Cancer](http://www.bccancer.bc.ca/).
+
+## A Short Video Demo
+<video width="560" height="315" controls>
+    <source src="Images/CM demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ## Getting Started
 
